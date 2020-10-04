@@ -1,0 +1,13 @@
+Merchant's guide to the galaxy (documentation):
+------------------------------------------------
+Disclaimer : The entire program is written in java
+
+1. How to run :
+    a. Open the Client.java file which contains the main method and run as java program
+    b. supply the file-path as prompted which would contain the conversion, credit and query details.
+
+2. The given program contains design patterns such as singleton and factory method.
+
+3. Assumptions :
+    a. The values of roman numerals are presumed and stored as part of utility method.
+    b. The metals assumed are Iron, Gold and Silver.
